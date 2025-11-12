@@ -4,6 +4,6 @@ if (args [0] === undefined)
     console.log("No argument");
  }
  else {
-    console.log("Value:", v);
-    console.log("Type:", typeof v);
+   //print all arguments as a single string
+    console.log( `"${args.join(" ")}"`);
  }
