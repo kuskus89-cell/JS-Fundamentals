@@ -1,2 +1,3 @@
-# JS-Fundamentals
-This is for learning more about javascript
+HEAD
+JS-Fundamentals
+53a2d08 (Reinitialize clean repository)
